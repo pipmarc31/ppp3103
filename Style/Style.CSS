@@ -1,0 +1,49 @@
+
+
+body {
+  color: white;
+  background-color: green;
+  font-family: Lato, Arial;
+  text-align: center;
+}
+
+p {
+  font-size:14pt;
+}
+
+h4 {
+  padding-bottom: 5px;
+  text-align: center;
+  font-size:13pt;
+}
+
+
+
+h2 {text-align: center;
+  padding-top: 50px;
+  color: yellow;
+}
+
+
+h3 {text-align: center;
+}
+
+.ich {
+	color: yellow;
+	font-size: 50px;
+
+}
+
+
+.E  {
+	color: white;
+	font-size: 50pt;
+}
+
+
+.Links {
+  color: white;
+	font-size: 45pt;
+padding-top: 1px;
+	padding: 50pt;
+}

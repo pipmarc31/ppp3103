@@ -1,0 +1,48 @@
+body {
+  color: white ;
+  background-color: black;
+  font-family: Lato, Arial;
+  text-align: center;
+}
+
+
+h4 {
+  padding-bottom: 5px;
+  text-align: center;
+  font-size:13pt;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {text-align: center;
+  padding-top: 50px;
+  color: red;
+}
+
+
+h3 {
+  color: red;
+}
+.Links {
+	font-size: 30pt;
+	padding: 50pt;
+}
+
+
+.Lehrer {
+  color: red;
+
+  background-color: black;
+
+   width: 300px;
+
+   border: 10px solid red;
+
+   padding: 30px;
+
+   margin: 20px;
+
+ display:inline;
+}

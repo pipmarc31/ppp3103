@@ -1,0 +1,34 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: Lato, Arial;
+  text-align: center;
+}
+
+p {
+  font-size:14pt;
+}
+
+h4 {
+  padding-bottom: 5px;
+  text-align: center;
+  font-size:13pt;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {text-align: center;
+  padding-top: 50px;
+  color: white;
+}
+
+
+h3 {text-align: center;
+}
+
+.Links {
+	font-size: 30pt;
+	padding: 50pt;
+}
